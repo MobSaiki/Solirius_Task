@@ -15,7 +15,7 @@ OR
 
 OR
 
-4. To run tests by their tags use: npx cypress open --env tags=@<tagName> OR (for CL) npx cypress run --env tags=@<tagName>
+4. To run tests by their tags use: npx cypress open --env tags=@tagName OR (for CL) npx cypress run --env tags=@tagName
    
 
 *******************************************************************************************************************************************************************
