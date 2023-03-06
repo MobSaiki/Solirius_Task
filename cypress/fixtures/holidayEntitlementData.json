@@ -1,0 +1,30 @@
+[
+  {
+    "choice0": "days worked per week",
+    "choice1": "hours worked per week",
+    "choice2": "casual or irregular hours, including zero hours contracts",
+    "choice3": "annualised hours"
+  },
+  {
+    "choice0": "a full leave year",
+    "choice1": "someone starting part way through a leave year",
+    "choice2": "someone leaving part way through a leave year"
+  },
+  {
+    "employmentStartDay": "01",
+    "employmentStartMonth": "01",
+    "employmentStartYear": "2023",
+    "employmentEndDay": "25",
+    "employmentEndMonth": "11",
+    "employmentEndYear": "2022",
+    "leaveYearStartDay": "01",
+    "leaveYearStartMonth": "06",
+    "leaveYearStartYear": "2022",
+    "invalidLeaveYearStartDay": "01",
+    "invalidLeaveYearStartMonth": "06",
+    "invalidLeaveYearStartYear": "2024",
+    "invalidEmploymentEndDay": "40",
+    "invalidEmploymentEndMonth": "100",
+    "invalidEmploymentEndYear": "3000"
+  }
+]
