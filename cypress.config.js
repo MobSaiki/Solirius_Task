@@ -19,7 +19,7 @@ module.exports = defineConfig({
   e2e: {
     setupNodeEvents,
     specPattern: "cypress/e2e/features/*.feature",
-    baseUrl: "https://www.gov.uk/calculate-your-holiday-entitlement",
+    baseUrl: "http://em-showcase-aat.service.core-compute-aat.internal/media-viewer",
     chromeWebSecurity: false
   },
 });
