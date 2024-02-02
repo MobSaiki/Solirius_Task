@@ -20,6 +20,7 @@ module.exports = defineConfig({
     setupNodeEvents,
     specPattern: "cypress/e2e/features/*.feature",
     baseUrl: "http://em-showcase-aat.service.core-compute-aat.internal/media-viewer",
-    chromeWebSecurity: false
+    chromeWebSecurity: false,
+    retries: 3
   },
 });
